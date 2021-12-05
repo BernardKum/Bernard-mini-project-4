@@ -1,3 +1,5 @@
+import Color from '$lib/Color.svelte';
+let colorName = 'Pink';
 <script>
     import Color from '$lib/Color.svelte';
     let colorName = 'Pink';
